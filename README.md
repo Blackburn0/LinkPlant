@@ -20,3 +20,10 @@ $ python manage.py runserver
 ```
 
 ## Screenshoots
+![Screenshot (69)](https://github.com/user-attachments/assets/765b3a4a-8eaf-418d-9f5d-37eab4b6e95d)
+![Screenshot (68)](https://github.com/user-attachments/assets/169fa44a-3291-4535-a267-f81df269b44f)
+![Screenshot (67)](https://github.com/user-attachments/assets/219df359-5848-4f06-bdb0-02d978dc2713)
+![Screenshot (66)](https://github.com/user-attachments/assets/86735353-b971-49e6-a3fd-1025b90bec70)
+
+
+
